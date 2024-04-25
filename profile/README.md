@@ -1,1 +1,1 @@
-Sokigo AB main
+Sokigo AB main organisation page.
